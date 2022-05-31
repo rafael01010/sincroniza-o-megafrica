@@ -1,1 +1,1 @@
-# siliconiza megafrica
+# sincronização megafrica
