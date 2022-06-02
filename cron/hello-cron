@@ -1,0 +1,1 @@
+1 1 * * * /var/www/html/cron/autoupdateproduct.sh>>/var/www/html/cron/log.txt 2>&1

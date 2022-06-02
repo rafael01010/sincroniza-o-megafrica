@@ -1,0 +1,1026 @@
+/bin/sh: 1: /var/www/html/cron/: Permission denied
+/bin/sh: 1: /var/www/html/cron/: Permission denied
+/bin/sh: 1: /var/www/html/cron/: Permission denied
+/bin/sh: 1: /var/www/html/cron/: Permission denied
+/bin/sh: 1: /var/www/html/cron/: Permission denied
+/bin/sh: 1: /var/www/html/cron/: Permission denied
+/bin/sh: 1: /var/www/html/cron/: Permission denied
+/bin/sh: 1: /var/www/html/cron/: Permission denied
+/bin/sh: 1: /var/www/html/cron/: Permission denied
+/bin/sh: 1: /var/www/html/cron/: Permission denied
+/bin/sh: 1: /var/www/html/cron/: Permission denied
+/bin/sh: 1: /var/www/html/cron/: Permission denied
+/bin/sh: 1: /var/www/html/cron/: Permission denied
+/bin/sh: 1: /var/www/html/cron/: Permission denied
+/bin/sh: 1: /var/www/html/cron/: Permission denied
+/bin/sh: 1: /var/www/html/cron/: Permission denied
+/bin/sh: 1: /var/www/html/cron/: Permission denied
+/bin/sh: 1: /var/www/html/cron/: Permission denied
+/bin/sh: 1: /autoupdateproduct.sh: Permission denied
+--2022-04-19 08:58:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... --2022-04-19 08:59:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                               119M=0s
+
+2022-04-19 08:59:18 (119 MB/s) - ‘csv’ saved [9574]
+
+Spider mode enabled. Check if remote file exists.
+--2022-04-19 08:59:18--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=18887
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-04-19 09:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                              89.9M=0s
+
+2022-04-19 09:00:19 (89.9 MB/s) - ‘csv’ saved [9574]
+
+Spider mode enabled. Check if remote file exists.
+--2022-04-19 09:00:19--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=30774
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-04-19 09:01:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                              77.4M=0s
+
+2022-04-19 09:01:18 (77.4 MB/s) - ‘csv’ saved [9574]
+
+Spider mode enabled. Check if remote file exists.
+--2022-04-19 09:01:18--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=28412
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-04-19 09:02:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                               119M=0s
+
+2022-04-19 09:02:20 (119 MB/s) - ‘csv’ saved [9574]
+
+Spider mode enabled. Check if remote file exists.
+--2022-04-19 09:02:20--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=28514
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                               114M=0s
+
+2022-04-19 09:03:22 (114 MB/s) - ‘csv’ saved [9574]
+
+Spider mode enabled. Check if remote file exists.
+--2022-04-19 09:03:22--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=30114
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-04-20 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                               113M=0s
+
+2022-04-20 01:01:22 (113 MB/s) - ‘csv’ saved [9574]
+
+Spider mode enabled. Check if remote file exists.
+--2022-04-20 01:01:22--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-04-21 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                               113M=0s
+
+2022-04-21 01:01:19 (113 MB/s) - ‘csv’ saved [9574]
+
+Spider mode enabled. Check if remote file exists.
+--2022-04-21 01:01:19--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-04-22 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 188.114.96.2, 188.114.97.2, 2a06:98c1:3121::2, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|188.114.96.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                               104M=0s
+
+2022-04-22 01:01:17 (104 MB/s) - ‘csv’ saved [9574]
+
+Spider mode enabled. Check if remote file exists.
+--2022-04-22 01:01:17--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 188.114.97.2, 188.114.96.2, 2a06:98c1:3120::2, ...
+Connecting to megafrica.ao (megafrica.ao)|188.114.97.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-04-23 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                               118M=0s
+
+2022-04-23 01:01:20 (118 MB/s) - ‘csv’ saved [9574]
+
+Spider mode enabled. Check if remote file exists.
+--2022-04-23 01:01:20--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-04-24 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                               114M=0s
+
+2022-04-24 01:01:17 (114 MB/s) - ‘csv’ saved [9574]
+
+Spider mode enabled. Check if remote file exists.
+--2022-04-24 01:01:17--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-04-25 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                               127M=0s
+
+2022-04-25 01:01:17 (127 MB/s) - ‘csv’ saved [9574]
+
+Spider mode enabled. Check if remote file exists.
+--2022-04-25 01:01:17--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-04-26 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                               115M=0s
+
+2022-04-26 01:01:24 (115 MB/s) - ‘csv’ saved [9574]
+
+Spider mode enabled. Check if remote file exists.
+--2022-04-26 01:01:24--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-04-27 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                              74.6M=0s
+
+2022-04-27 01:01:18 (74.6 MB/s) - ‘csv’ saved [9574]
+
+Spider mode enabled. Check if remote file exists.
+--2022-04-27 01:01:18--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-04-28 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                               104M=0s
+
+2022-04-28 01:01:17 (104 MB/s) - ‘csv’ saved [9574]
+
+Spider mode enabled. Check if remote file exists.
+--2022-04-28 01:01:17--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-04-29 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                               123M=0s
+
+2022-04-29 01:01:18 (123 MB/s) - ‘csv’ saved [9574]
+
+Spider mode enabled. Check if remote file exists.
+--2022-04-29 01:01:18--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-04-30 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                               140M=0s
+
+2022-04-30 01:01:22 (140 MB/s) - ‘csv’ saved [9574]
+
+Spider mode enabled. Check if remote file exists.
+--2022-04-30 01:01:22--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-01 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-01 01:01:40 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-01 01:01:40--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-02 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                              86.0M=0s
+
+2022-05-02 01:01:18 (86.0 MB/s) - ‘csv’ saved [9574]
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-02 01:01:18--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-03 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                               119M=0s
+
+2022-05-03 01:01:21 (119 MB/s) - ‘csv’ saved [10113]
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-03 01:01:21--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-04 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                               121M=0s
+
+2022-05-04 01:01:22 (121 MB/s) - ‘csv’ saved [10113]
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-04 01:01:22--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-05 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K .........                                              70.9M=0s
+
+2022-05-05 01:01:22 (70.9 MB/s) - ‘csv’ saved [10113]
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-05 01:01:22--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-06 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K ........                                               56.9M=0s
+
+2022-05-06 01:01:16 (56.9 MB/s) - ‘csv’ saved [9035]
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-06 01:01:16--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-07 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K ........                                                111M=0s
+
+2022-05-07 01:01:39 (111 MB/s) - ‘csv’ saved [9084]
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-07 01:01:39--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-08 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K ........                                               79.2M=0s
+
+2022-05-08 01:01:39 (79.2 MB/s) - ‘csv’ saved [9084]
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-08 01:01:39--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-09 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘csv’
+
+     0K ........                                                105M=0s
+
+2022-05-09 01:01:38 (105 MB/s) - ‘csv’ saved [9084]
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-09 01:01:38--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-10 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-10 01:01:40 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-10 01:01:40--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-11 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-11 01:01:40 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-11 01:01:40--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-12 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-12 01:01:41 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-12 01:01:41--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-13 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-13 01:01:40 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-13 01:01:40--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-14 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-14 01:01:41 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-14 01:01:41--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-15 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-15 01:01:40 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-15 01:01:40--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-16 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-16 01:01:40 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-16 01:01:40--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-17 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-17 01:01:40 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-17 01:01:40--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-18 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-18 01:01:40 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-18 01:01:40--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-19 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-19 01:01:40 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-19 01:01:40--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-20 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-20 01:01:40 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-20 01:01:40--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-21 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-21 01:01:40 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-21 01:01:40--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-22 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-22 01:01:40 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-22 01:01:40--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-23 01:00:01--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-23 01:01:40 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-23 01:01:40--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-26 01:00:01--  https://sinc.megafrica.ao/getimages
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://sinc.megafrica.ao/getimages/ [following]
+--2022-05-26 01:00:02--  http://sinc.megafrica.ao/getimages/
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sinc.megafrica.ao/getimages/ [following]
+--2022-05-26 01:00:02--  https://sinc.megafrica.ao/getimages/
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-26 01:01:41 ERROR 524: (no description).
+
+--2022-05-26 04:01:41--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-26 04:03:20 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-26 04:03:20--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-27 01:00:01--  https://sinc.megafrica.ao/getimages
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://sinc.megafrica.ao/getimages/ [following]
+--2022-05-27 01:00:01--  http://sinc.megafrica.ao/getimages/
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sinc.megafrica.ao/getimages/ [following]
+--2022-05-27 01:00:01--  https://sinc.megafrica.ao/getimages/
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-27 01:01:41 ERROR 524: (no description).
+
+--2022-05-27 04:01:41--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-27 04:03:20 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-27 04:03:20--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-28 01:00:01--  https://sinc.megafrica.ao/getimages
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://sinc.megafrica.ao/getimages/ [following]
+--2022-05-28 01:00:02--  http://sinc.megafrica.ao/getimages/
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sinc.megafrica.ao/getimages/ [following]
+--2022-05-28 01:00:02--  https://sinc.megafrica.ao/getimages/
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-28 01:01:41 ERROR 524: (no description).
+
+--2022-05-28 04:01:41--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-28 04:03:20 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-28 04:03:20--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-29 01:00:01--  https://sinc.megafrica.ao/getimages
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://sinc.megafrica.ao/getimages/ [following]
+--2022-05-29 01:00:02--  http://sinc.megafrica.ao/getimages/
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sinc.megafrica.ao/getimages/ [following]
+--2022-05-29 01:00:02--  https://sinc.megafrica.ao/getimages/
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-29 01:01:41 ERROR 524: (no description).
+
+--2022-05-29 04:01:41--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-29 04:03:20 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-29 04:03:20--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-30 01:00:01--  https://sinc.megafrica.ao/getimages
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://sinc.megafrica.ao/getimages/ [following]
+--2022-05-30 01:00:01--  http://sinc.megafrica.ao/getimages/
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sinc.megafrica.ao/getimages/ [following]
+--2022-05-30 01:00:01--  https://sinc.megafrica.ao/getimages/
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-30 01:01:40 ERROR 524: (no description).
+
+--2022-05-30 04:01:40--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-30 04:03:19 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-30 04:03:19--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-05-31 01:00:01--  https://sinc.megafrica.ao/getimages
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://sinc.megafrica.ao/getimages/ [following]
+--2022-05-31 01:00:01--  http://sinc.megafrica.ao/getimages/
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sinc.megafrica.ao/getimages/ [following]
+--2022-05-31 01:00:01--  https://sinc.megafrica.ao/getimages/
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-31 01:01:41 ERROR 524: (no description).
+
+--2022-05-31 04:01:41--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-05-31 04:03:20 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-05-31 04:03:20--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-06-01 01:00:01--  https://sinc.megafrica.ao/getimages
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://sinc.megafrica.ao/getimages/ [following]
+--2022-06-01 01:00:01--  http://sinc.megafrica.ao/getimages/
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sinc.megafrica.ao/getimages/ [following]
+--2022-06-01 01:00:01--  https://sinc.megafrica.ao/getimages/
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-06-01 01:01:40 ERROR 524: (no description).
+
+--2022-06-01 04:01:40--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3032::ac43:d7fa, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-06-01 04:03:20 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-06-01 04:03:20--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory
+--2022-06-02 01:00:01--  https://sinc.megafrica.ao/getimages
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://sinc.megafrica.ao/getimages/ [following]
+--2022-06-02 01:00:01--  http://sinc.megafrica.ao/getimages/
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sinc.megafrica.ao/getimages/ [following]
+--2022-06-02 01:00:01--  https://sinc.megafrica.ao/getimages/
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-06-02 01:01:41 ERROR 524: (no description).
+
+--2022-06-02 04:01:41--  https://sinc.megafrica.ao/public/export/csv
+Resolving sinc.megafrica.ao (sinc.megafrica.ao)... 172.67.215.250, 104.21.91.112, 2606:4700:3036::6815:5b70, ...
+Connecting to sinc.megafrica.ao (sinc.megafrica.ao)|172.67.215.250|:443... connected.
+HTTP request sent, awaiting response... 524 
+2022-06-02 04:03:20 ERROR 524: (no description).
+
+Spider mode enabled. Check if remote file exists.
+--2022-06-02 04:03:20--  https://megafrica.ao/wp-load.php?import_key=jFtA39kupM&import_id=4&action=trigger&rand=
+Resolving megafrica.ao (megafrica.ao)... 104.21.91.112, 172.67.215.250, 2606:4700:3036::6815:5b70, ...
+Connecting to megafrica.ao (megafrica.ao)|104.21.91.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Remote file exists.
+
+{"status":200,"message":"Import #4 complete"}rm: cannot remove 'wp-*': No such file or directory
+rm: cannot remove 'csv*': No such file or directory
+rm: cannot remove 'wget*': No such file or directory

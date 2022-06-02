@@ -1,0 +1,14 @@
+Primeiro faça 
+crontab –e
+depois selecione o editor 
+1 e o nano e mais recomendado 
+depois coloque a seguinte linha
+0 1 * * * /var/www/html/cron/autoupdateproduct.sh>> /var/www/html/cron/log.txt  2>&1
+
+faça ctrl + s depois ctrl +x 
+
+depois execute seguinte comando para definir permissões na pasta das imagens 
+setfacl -d -m u::rwx,g::rwx,o::rwx  /var/www/html/getimages/
+
+
+e agora já esta implementado

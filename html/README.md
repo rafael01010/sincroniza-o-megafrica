@@ -1,1 +1,0 @@
-# sincronização megafrica
